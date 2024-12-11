@@ -2,6 +2,8 @@
 ### Hi there 👋
 -->
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F217AUE4)
+
 <!--
 **LorenzG2006/LorenzG2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
