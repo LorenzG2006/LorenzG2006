@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzg2006)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F217AUE4)
