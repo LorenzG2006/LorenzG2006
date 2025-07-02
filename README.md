@@ -1,12 +1,14 @@
-<!--
 ### Hi there 👋
--->
 
-[![Anurag's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006)](https://github.com/anuraghazra/github-readme-stats)
+I'm Lorenz - a curious and enthusiastic developer who loves learning new things and building cool stuff!
 
-<!--
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F217AUE4)
--->
+[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006&theme=dark&hide_border=true)](https://github.com/lorenzg2006)
+<br/>
+[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api/top-langs/?username=lorenzg2006&theme=dark&hide_border=true&layout=compact)](https://github.com/lorenzg2006)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats-production.vercel.app?user=LorenzG2006&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F217AUE4)-->
 
 <!--
 **LorenzG2006/LorenzG2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
