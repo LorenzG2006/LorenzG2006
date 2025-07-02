@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 I'm Lorenz - a curious and enthusiastic developer who loves learning new things and building cool stuff!
+[![GitHub Streak](https://github-readme-streak-stats-production.vercel.app?user=LorenzG2006&theme=dark&hide_border=true&currStreakLabel=79ff97&fire=79ff97&ring=79ff97)](https://git.io/streak-stats)
+<br/>
+[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006&theme=dark&hide_border=true&show_icons=true)](https://github.com/lorenzg2006)
+<br/>
+[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api/top-langs/?username=lorenzg2006&theme=dark&hide_border=true&layout=compact&langs_count=10&exclude_repo=lorenzg2006.github.io)](https://github.com/lorenzg2006)
 
-[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006&theme=dark&hide_border=true)](https://github.com/lorenzg2006)
-<br/>
-[![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api/top-langs/?username=lorenzg2006&theme=dark&hide_border=true&layout=compact)](https://github.com/lorenzg2006)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats-production.vercel.app?user=LorenzG2006&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F217AUE4)-->
 
