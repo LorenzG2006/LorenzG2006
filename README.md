@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Lorenz - a curious and enthusiastic developer who loves learning new things and building cool stuff!
+
 [![GitHub Streak](https://github-readme-streak-stats-production.vercel.app?user=LorenzG2006&theme=dark&hide_border=true&currStreakLabel=79ff97&fire=79ff97&ring=79ff97)](https://git.io/streak-stats)
 <br/>
 [![Lorenz's GitHub stats](https://github-readme-stats-production.vercel.app/api?username=lorenzg2006&theme=dark&hide_border=true&show_icons=true)](https://github.com/lorenzg2006)
